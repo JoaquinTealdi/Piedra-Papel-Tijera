@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\PiedraPapelTijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj": {}
+    "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\Piedra-Papel-Tijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj": {}
   },
   "projects": {
-    "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\PiedraPapelTijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj": {
+    "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\Piedra-Papel-Tijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\PiedraPapelTijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj",
+        "projectUniqueName": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\Piedra-Papel-Tijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj",
         "projectName": "PiedraPapelTijera",
-        "projectPath": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\PiedraPapelTijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj",
+        "projectPath": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\Piedra-Papel-Tijera\\PiedraPapelTijera\\PiedraPapelTijera.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\PiedraPapelTijera\\PiedraPapelTijera\\obj\\",
+        "outputPath": "E:\\PROGRAMAS\\Proyectos en GitHub\\C#\\Piedra Papel Tijeras\\Piedra-Papel-Tijera\\PiedraPapelTijera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",

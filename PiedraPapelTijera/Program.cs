@@ -36,25 +36,24 @@ internal class Program
             new Tijera()
         };
         Random rand = new Random();
-        int index, ronda = 0, contPC = 0, contJugador = 0;
+        int index, opcion, ronda = 0, contPC = 0, contJugador = 0; 
         string duelo;
         ElementoBase elementoPC; 
         ElementoBase elementoJugador;        
-
-        Console.WriteLine("Elija una opción: 1- Piedra 2- Papel 3-Tijera");
-        int opcion = Convert.ToInt32(Console.ReadLine());
-
-        while (opcion < 1 || opcion > 3)
-        {
-            Console.WriteLine("Opción incorrecta, intente nuevamente:  1- Piedra 2- Papel 3-Tijera");
-            opcion = Convert.ToInt32(Console.ReadLine());
-        }
 
         do
         {
             Console.WriteLine("\nRonda {0}", ++ronda);
             index = rand.Next(opcionesPC.Count);
             elementoPC = opcionesPC[index];
+            Console.WriteLine("Elija una opción para jugar: 1- Piedra 2- Papel 3-Tijera");
+            opcion = Convert.ToInt32(Console.ReadLine());
+
+            while (opcion < 1 || opcion > 3)
+            {
+                Console.WriteLine("Opción incorrecta, intente nuevamente:  1- Piedra 2- Papel 3-Tijera");
+                opcion = Convert.ToInt32(Console.ReadLine());
+            }
             if (opcion == 1)
             {
                 elementoJugador = new Piedra();         
@@ -71,25 +70,14 @@ internal class Program
             duelo = elementoJugador.ResultadoContra(elementoPC);
             switch (duelo)
             {
-                case "gana": contJugador++; break;
-                case "pierde": contPC++; break;
+                case "gana": Console.WriteLine("Ganaste el duelo!"); contJugador++; break;
+                case "pierde": Console.WriteLine("Perdiste el duelo :("); contPC++; break;
+                default: Console.WriteLine("¡Empate!"); break;
             }
 
             Console.WriteLine("Puntos Jugador {0}\nPuntos PC: {1}", contJugador, contPC);
 
-            
-            //Cuando cualquiera llegue a 3 el juego termina, evitando el caso de que jugador y pc empaten en 3 duelos ganados
-            if (contJugador < 3 && contPC < 3)
-            {
-                Console.WriteLine("Elija nuevamente: 1- Piedra 2- Papel 3-Tijera");
-                opcion = Convert.ToInt32(Console.ReadLine());
-            }
-            else
-            {
-                break;
-            }
-
-        } while (contPC < 3 || contJugador < 3);
+        } while (contPC < 3 && contJugador < 3);
 
         Console.WriteLine("\n¡Juego Terminado!");
         Console.WriteLine("Cantidad de rondas: {0}", ronda);
