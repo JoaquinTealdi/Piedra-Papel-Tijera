@@ -1,0 +1,45 @@
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.exe
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.deps.json
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.runtimeconfig.json
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfo.cs
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\refint\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.genruntimeconfig.cache
+E:\PROGRAMAS\C#\LABORATORIO III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\ref\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.exe
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.deps.json
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.runtimeconfig.json
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfo.cs
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\refint\PiedraPapelTijera.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.genruntimeconfig.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\ref\PiedraPapelTijera.dll
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.exe
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.deps.json
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.runtimeconfig.json
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.AssemblyReference.cache
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfoInputs.cache
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfo.cs
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.dll
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\refint\PiedraPapelTijera.dll
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.pdb
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.genruntimeconfig.cache
+E:\PROGRAMAS\Proyectos en GitHub\C#\Piedra Papel Tijeras\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\ref\PiedraPapelTijera.dll
